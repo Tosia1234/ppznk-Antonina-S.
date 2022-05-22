@@ -44,3 +44,5 @@ def setup():
     malyPoziomyKwadrat.sketchPoziomy(400,450,4)
     duzyPoziomyKwadrat = PoziomyKwadrat(60.0)
     duzyPoziomyKwadrat.sketchPoziomy(120, 380, 5)
+    
+# ok, 2pkt
